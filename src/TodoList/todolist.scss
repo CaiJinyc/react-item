@@ -1,0 +1,21 @@
+.todo-list {
+  width: 500px;
+  margin: 20px auto;
+}
+
+.todo-list-header {
+  margin-bottom: 20px;
+
+  .input-item {
+    display: inline-block;
+    width: 400px;
+  }
+  
+  button {
+    float: right;
+  }
+}
+
+.todo-list-content {
+  width: 500px;
+}
